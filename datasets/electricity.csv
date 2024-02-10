@@ -1,0 +1,187 @@
+year,plant_id,plant_name_gen,operator_name_gen,operator_id_gen,net_generation_mwh,plant_name_cap,operator_name_cap,operator_id_cap,capacity_mwh,capacity_utilization
+2001,50573,CID Gas Recovery,WM Illinois Renewable Energy LLC,54843,39158.001,CID Gas Recovery,Bio-Energy Partners,1687,50808,0.770705420406
+2001,50572,CSL Gas Recovery,WM Renewable Energy LLC,54842,69691,CSL Gas Recovery,Bio-Energy Partners,1687,95484,0.729870973147
+2001,50571,Altamont Gas Recovery,WM Renewable Energy LLC,54842,38814,Altamont Gas Recovery,Bio-Energy Partners,1687,50808,0.763934813415
+2001,50570,Chestnut Ridge Gas Recovery,WM Renewable Energy LLC,54842,23660.002,Chestnut Ridge Gas Recovery,Bio-Energy Partners,1687,28032,0.844035459475
+2001,50569,DFW Gas Recovery,WM Renewable Energy LLC,54842,34246,DFW Gas Recovery,Bio-Energy Partners,1687,50808,0.674027712171
+2002,6505,Oak Grove,Portland General Electric Co,15248,223339,Oak Grove,Portland General Electric Co,15248,385440,0.579439082607
+2002,6504,Maalaea,Maui Electric Co Ltd,11843,1686200,Maalaea,Maui Electric Co Ltd,11843,1660020,1.01577089433
+2002,6486,Mill C,New York State Elec & Gas Corp,13511,12884,Mill C,New York State Electric  & Gas,13511,52560,0.245129375951
+2002,6484,Bend,PacifiCorp,14354,3440,Bend,PacifiCorp,14354,8760,0.392694063927
+2003,1154,Lake Mills,City of Lake Mills,10606,765,Lake Mills,Lake Mills City of,10606,160308,0.00477206377723
+2003,1155,Lamoni Municipal Utilities,City of Lamoni,10650,577.001,Lamoni Municipal Utilities,Lamoni Municipal Utilities,10650,46515.6,0.0124044621589
+2003,1156,La Porte,La Porte City Utilities,10542,611,La Porte,La Porte City City of,10542,46428,0.0131601619712
+2003,1157,Laurens,City of Laurens,10769,89.999,Laurens,Laurens City of,10769,12264,0.00733847031963
+2004,54470,Eagle & Phenix,Matthew D. Swift WC Bradley Co.,50025,136.62,Eagle & Phenix,Matthew D. Swift WC Bradley Co.,50025,34952.4,0.0039087444639
+2004,54517,Sierra Pacific Sonora,Sierra Pacific Industries Inc,17164,39287.911,Sierra Pacific Sonora,Sierra Pacific Industries Inc,17164,56940,0.689987899543
+2004,54469,Pacific Oroville Power Inc,Pacific Oroville Power Co,22048,133303.001,Pacific Oroville Power Inc,Pacific Oroville Power Co,22048,144540,0.922256821641
+2004,54470,Eagle & Phenix,Matthew D. Swift WC Bradley Co.,50025,136.62,Eagle & Phenix,Matthew D. Swift WC Bradley Co.,50025,34952.4,0.0039087444639
+2005,55222,Lincoln Generating Facility,Lincoln Generating Facility LLC,50094,59321,Lincoln Generating Facility,Lincoln Generating Facility LLC,50094,5521428,0.0107437786022
+2005,55223,Ennis Power Company LLC,Ennis Power Company LLC,5761,1392739,Ennis Tractebel Power LP,Ennis Tractebel Power Co LP,5761,3149220,0.442248874324
+2005,55224,Wheatland Generating Facility,Duke Energy Indiana Inc,15470,14016,Wheatland Generating Facility,Cincinnati Gas & Electric Co,3542,4134720,0.00338983050847
+2005,55225,Oneta Energy Center,Calpine Central L P,2897,651431,Oneta Energy Center,Calpine Central L P,2897,9479196,0.0687221785476
+2005,55236,Lee Energy Facility,Duke Energy Ohio Inc,3542,96193,Lee Energy Facility,Duke Energy Lee LLC,5440,5461860,0.0176117659552
+2005,55237,Energy Shelby County,RRI Energy Wholesale Generation  LLC,54885,80997,Energy Shelby County,Reliant Energy Power Gen Inc,29945,3255216,0.0248822197974
+2005,55238,NRG Rockford I,Indeck Operations  Inc,9262,28751.28,NRG Rockford I,Indeck Operations  Inc,9262,2575440,0.011163638058
+2005,55239,AES Red Oak LLC,AES Red Oak LLC,22131,1471723,AES Red Oak LLC,AES Red Oak LLC,22131,6710072.4,0.219330420339
+2005,55241,Hog Bayou Energy Center,Mobile Energy LLC,12739,20103,Hog Bayou Energy Center,Mobile Energy LLC,12739,2014800,0.00997766527695
+2005,55242,Santa Rosa Energy Center,Calpine Operating Services Company  Inc,54692,1115.5,Santa Rosa Energy Center,Calpine Operating Services Company  Inc,54692,2066484,0.000539805776382
+2006,2322,Clark,Nevada Power Co,13407,1647160,Clark,Nevada Power Co,13407,6132000,0.268617090672
+2006,2316,Wisner,City of Wisner,20880,24.001,Wisner,City of Wisner,20880,15768,0.0015221334348
+2006,2315,Wilber,City of Wilber,20632,60.999,Wilber,City of Wilber,20632,27156,0.00224624392399
+2006,2313,West Point Municipal,City of West Point,20397,629.002,West Point Municipal,City of West Point,20397,74460,0.00844751544453
+2006,2312,Wayne,City of Wayne,20219,1085.002,Wayne,City of Wayne,20219,174324,0.00622405406026
+2006,2311,Wakefield,City of Wakefield,19980,179,Wakefield,City of Wakefield,19980,28032,0.00638555936073
+2006,2310,Wahoo,Wahoo City of,19968,1115,Wahoo,Wahoo City of,19968,119136,0.00935905183991
+2006,2308,Tecumseh,City of Tecumseh,18525,29.001,Tecumseh,City of Tecumseh,18525,57816,0.000501608551266
+2006,2306,Sutherland,Sutherland City of,18350,179.001,Sutherland,Sutherland City of,18350,24177.6,0.0074035884455
+2006,2277,Sheldon,Nebraska Public Power District,13337,1526126,Sheldon,Nebraska Public Power District,13337,1971000,0.774290208016
+2006,2305,Stuart,City of Stuart,18230,94.002,Stuart,City of Stuart,18230,16644,0.00564780100937
+2006,2302,Sidney,City of Sidney,17149,115.999,Sidney,City of Sidney,17149,64824,0.00178944526718
+2006,2300,Sargent,Sargent City of,16667,44,Sargent,Sargent City of,16667,21024,0.00209284627093
+2006,2299,Red Cloud,City of Red Cloud,15773,404.999,Red Cloud,City of Red Cloud,15773,49932,0.00811101097493
+2006,2297,Plainview Muncipal Power,City of Plainview,15132,68.001,Plainview Muncipal Power,City of Plainview,15132,43800,0.00155253424658
+2006,2296,Pender,City of Pender,14656,104,Pender,City of Pender,14656,41172,0.0025259885359
+2006,2295,Oxford,Village of Oxford,14277,191.001,Oxford,Village of Oxford,14277,26280,0.00726792237443
+2006,2294,Ord,City of Ord,14172,639.003,Ord,City of Ord,14172,94608,0.00675421740233
+2006,2292,Sarpy County,Omaha Public Power District,14127,113321,Sarpy County,Omaha Public Power District,14127,2753268,0.0411587248317
+2006,2291,North Omaha,Omaha Public Power District,14127,3476965,North Omaha,Omaha Public Power District,14127,5806128,0.598844014462
+2006,2290,Jones Street,Omaha Public Power District,14127,1192,Jones Street,Omaha Public Power District,14127,1037184,0.00114926570406
+2006,2289,Fort Calhoun,Omaha Public Power District,14127,3092180,Fort Calhoun,Omaha Public Power District,14127,4187280,0.738469841998
+2006,2280,Mullen,Village of Mullen,13090,13,Mullen,Village of Mullen,13090,7884,0.00164890918316
+2006,2303,Spalding,Village of Spalding,17727,70.002,Spalding,Village of Spalding,17727,18133.2,0.0038604327973
+2006,2494,Gowanus Gas Turbines Generating,U S Power Generating Company LLC,54863,86580,Gowanus Gas Turbines Generating,U S Power Generating Company LLC,54863,4896840,0.0176807900605
+2006,2496,Hudson Avenue,Consolidated Edison Co-NY Inc,4226,1846,Hudson Avenue,Consolidated Edison Co-NY Inc,4226,950460,0.0019422174526
+2006,2497,Indian Point 2,Entergy Nuclear Indian Point 2,6027,7987132,Indian Point 2,Entergy Nuclear Indian Point 2,6027,8931696,0.894245840879
+2007,425,Middle Fork,Placer County Water Agency,15127,255360,Middle Fork,Placer County Water Agency,15127,1068720,0.238940040422
+2007,426,Oxbow,Placer County Water Agency,15127,15864,Oxbow,Placer County Water Agency,15127,52560,0.301826484018
+2007,427,Ralston,Placer County Water Agency,15127,194732.001,Ralston,Placer County Water Agency,15127,755988,0.257586100573
+2007,428,Parker,Merced Irrigation District,12312,63123.999,Parker,Merced Irrigation District,12312,23652,2.66886516996
+2007,430,Camino,Sacramento Municipal Util Dist,16534,230308,Camino,Sacramento Municipal Util Dist,16534,1365684,0.168639304554
+2007,431,Jaybird,Sacramento Municipal Util Dist,16534,358229,Jaybird,Sacramento Municipal Util Dist,16534,1368312,0.261803594502
+2007,432,Loon Lake,Sacramento Municipal Util Dist,16534,58657,Loon Lake,Sacramento Municipal Util Dist,16534,649116,0.0903644340919
+2007,433,Robbs Peak,Sacramento Municipal Util Dist,16534,26565,Robbs Peak,Sacramento Municipal Util Dist,16534,223380,0.11892291163
+2007,435,White Rock/Slab Creek,Sacramento Municipal Util Dist,16534,300815,White Rock/Slab Creek,Sacramento Municipal Util Dist,16534,2111160,0.142488016067
+2007,436,Devil Canyon,California Department of Water Resources,3255,1154475,Devil Canyon,California Department of Water Resources,3255,2452800,0.470676369863
+2007,437,Edward C Hyatt,California Department of Water Resources,3255,1807966,Edward C Hyatt,California Department of Water Resources,3255,6509556,0.277740294423
+2007,438,Thermalito,California Department of Water Resources,3255,249879,Thermalito,California Department of Water Resources,3255,918048,0.272185114504
+2007,439,Don Pedro,Turlock Irrigation District,19281,288932,Don Pedro,Turlock Irrigation District,19281,1780032,0.16231843023
+2007,424,French Meadows,Placer County Water Agency,15127,32111.999,French Meadows,Placer County Water Agency,15127,148920,0.215632547677
+2007,440,La Grange,Turlock Irrigation District,19281,15621,La Grange,Turlock Irrigation District,19281,37668,0.414702134438
+2007,407,Upper Gorge,Los Angeles City of,11208,67724.001,Upper Gorge,Los Angeles City of,11208,315360,0.214751398402
+2007,404,Scattergood,Los Angeles City of,11208,1243347.998,Scattergood,Los Angeles City of,11208,7034280,0.176755545415
+2007,363,Santa Ana 3,Southern California Edison Co,17609,2363.001,Santa Ana 3,Southern California Edison Co,17609,27156,0.0870157976138
+2007,365,Tule River,Southern California Edison Co,17609,10494,Tule River,Southern California Edison Co,17609,21024,0.499143835616
+2007,371,Columbia Generating Station,Energy Northwest,20160,8108560,Columbia Generating Station,Energy Northwest,20160,9907560,0.818421488237
+2007,376,Pardee,East Bay Municipal Util Dist,5571,31717.999,Pardee,East Bay Municipal Util Dist,5571,242652,0.130713940128
+2007,377,Grayson,City of Glendale,7294,177273,Grayson,City of Glendale,7294,2539524,0.0698056013647
+2007,380,Dion R Holm,San Francisco City & County of,16612,682334,Dion R Holm,San Francisco City & County of,16612,1445400,0.472072782621
+2007,381,Moccasin,San Francisco City & County of,16612,343268,Moccasin,San Francisco City & County of,16612,876000,0.391858447489
+2007,382,R C Kirkwood,San Francisco City & County of,16612,402272,R C Kirkwood,San Francisco City & County of,16612,1035432,0.388506439824
+2007,425,Middle Fork,Placer County Water Agency,15127,255360,Middle Fork,Placer County Water Agency,15127,1068720,0.238940040422
+2008,649,Vogtle,Georgia Power Co,7140,17777553,Vogtle,Georgia Power Co,7140,20165520,0.881581680016
+2008,533,McWilliams,PowerSouth Energy Cooperative,189,1114766,McWilliams,PowerSouth Energy Cooperative,189,5694000,0.195779065683
+2008,529,Solar,Sacramento Municipal Util Dist,16534,2295,Solar,Sacramento Municipal Util Dist,16534,17520,0.130993150685
+2008,477,Valmont,Public Service Co of Colorado,15466,1185024,Valmont,Public Service Co of Colorado,15466,2006040,0.590728001436
+2008,476,Shoshone,Public Service Co of Colorado,15466,35330,Shoshone,Public Service Co of Colorado,15466,131400,0.268873668189
+2008,474,Salida,Public Service Co of Colorado,15466,3978,Salida,Public Service Co of Colorado,15466,12264,0.324363992172
+2008,473,Grand Valley Project Power Plant,Orchard Mesa Irrigation District,57301,11976,Palisade,Public Service Co of Colorado,15466,28032,0.427226027397
+2008,472,Georgetown,Public Service Co of Colorado,15466,3886,Georgetown,Public Service Co of Colorado,15466,14016,0.27725456621
+2008,471,Fruita,Public Service Co of Colorado,15466,2353,Fruita,Public Service Co of Colorado,15466,131400,0.0179071537291
+2008,470,Comanche,Public Service Co of Colorado,15466,4378101,Comanche,Public Service Co of Colorado,15466,5781600,0.757247301785
+2008,469,Cherokee,Public Service Co of Colorado,15466,4534806,Cherokee,Public Service Co of Colorado,15466,6329976,0.716401768348
+2008,468,Cameo,Public Service Co of Colorado,15466,404938,Cameo,Public Service Co of Colorado,15466,636852,0.635843178635
+2008,649,Vogtle,Georgia Power Co,7140,17777553,Vogtle,Georgia Power Co,7140,20165520,0.881581680016
+2008,533,McWilliams,PowerSouth Energy Cooperative,189,1114766,McWilliams,PowerSouth Energy Cooperative,189,5694000,0.195779065683
+2008,529,Solar,Sacramento Municipal Util Dist,16534,2295,Solar,Sacramento Municipal Util Dist,16534,17520,0.130993150685
+2008,477,Valmont,Public Service Co of Colorado,15466,1185024,Valmont,Public Service Co of Colorado,15466,2006040,0.590728001436
+2008,476,Shoshone,Public Service Co of Colorado,15466,35330,Shoshone,Public Service Co of Colorado,15466,131400,0.268873668189
+2008,474,Salida,Public Service Co of Colorado,15466,3978,Salida,Public Service Co of Colorado,15466,12264,0.324363992172
+2008,473,Grand Valley Project Power Plant,Orchard Mesa Irrigation District,57301,11976,Palisade,Public Service Co of Colorado,15466,28032,0.427226027397
+2009,7916,Talbot County Energy,Oglethorpe Power Corporation,13994,54557,Talbot County Energy,Oglethorpe Power Corporation,13994,5813136,0.00938512362346
+2009,7914,Harlem River Yard,New York Power Authority,15296,14369,Harlem River Yard,New York Power Authority,15296,699924,0.0205293717604
+2009,7913,Hell Gate,New York Power Authority,15296,15773,Hell Gate,New York Power Authority,15296,699924,0.022535303833
+2009,7912,Brentwood,New York Power Authority,15296,18611,Brentwood,New York Power Authority,15296,411720,0.0452030506169
+2009,7911,Kern Canyon,Pacific Gas & Electric Co,14328,52459,Kern Canyon,Pacific Gas & Electric Co,14328,100740,0.520736549533
+2009,7910,Joseph J. Seymour Power Project,New York Power Authority,15296,82569,Joseph J. Seymour Power Project,New York Power Authority,15296,699924,0.117968522297
+2009,7909,Vernon Boulevard,New York Power Authority,15296,17980,Vernon Boulevard,New York Power Authority,15296,699924,0.0256885033232
+2009,7915,North 1st,New York Power Authority,15296,13104,North 1st,New York Power Authority,15296,411720,0.0318274555523
+2009,7925,Lakefield Junction,Great River Energy,7570,63176,Lakefield Junction,Great River Energy,7570,4280136,0.0147602786454
+2009,7926,South Strawberry,City of Strawberry Point,18204,9,South Strawberry,City of Strawberry Point,18204,31536,0.000285388127854
+2009,7927,Buffalo Mountain,Tennessee Valley Authority,18642,345,Buffalo Mountain,Tennessee Valley Authority,18642,18396,0.0187540769733
+2009,7946,Wansley Unit 9,Municipal Electric Authority,13100,1096600,Wansley Unit 9,Municipal Electric Authority,13100,4398396,0.249318160529
+2009,7944,Bethany II,City of Bethany,1647,25,Bethany II,City of Bethany,1647,10512,0.00237823439878
+2009,7942,Diamond Valley Lake,Metropolitan Water District of S CA,12397,12182,Diamond Valley Lake,Metropolitan Water District of S CA,12397,260172,0.0468228710238
+2009,7941,Diesel Group 3,Old Dominion Electric Coop,40229,100,Diesel Group 3,Old Dominion Electric Coop,40229,35040,0.00285388127854
+2009,7940,Diesel Group 2,Old Dominion Electric Coop,40229,97,Diesel Group 2,Old Dominion Electric Coop,40229,35040,0.00276826484018
+2009,7939,Diesel Group 1,Old Dominion Electric Coop,40229,267,Diesel Group 1,Old Dominion Electric Coop,40229,105120,0.0025399543379
+2009,7937,Ponnequin,Public Service Co of Colorado,15466,43324,Ponnequin,Public Service Co of Colorado,15466,221628,0.195480715433
+2009,7936,Nine Canyon,Energy Northwest,20160,233636,Nine Canyon,Energy Northwest,20160,832200,0.280745013218
+2009,7935,Trenton South,Trenton Municipal Utilities,19150,276,Trenton South,Trenton Municipal Utilities,19150,115632,0.00238688252387
+2009,7934,Industrial Park,City of Rock Falls,16198,149,Industrial Park,City of Rock Falls,16198,65700,0.00226788432268
+2009,7932,Gaylord,"Wolverine Pwr Supply Coop, Inc",20910,11300,Gaylord,"Wolverine Pwr Supply Coop, Inc",20910,516840,0.0218636328458
+2009,7916,Talbot County Energy,Oglethorpe Power Corporation,13994,54557,Talbot County Energy,Oglethorpe Power Corporation,13994,5813136,0.00938512362346
+2009,7914,Harlem River Yard,New York Power Authority,15296,14369,Harlem River Yard,New York Power Authority,15296,699924,0.0205293717604
+2009,7913,Hell Gate,New York Power Authority,15296,15773,Hell Gate,New York Power Authority,15296,699924,0.022535303833
+2009,7912,Brentwood,New York Power Authority,15296,18611,Brentwood,New York Power Authority,15296,411720,0.0452030506169
+2009,7911,Kern Canyon,Pacific Gas & Electric Co,14328,52459,Kern Canyon,Pacific Gas & Electric Co,14328,100740,0.520736549533
+2010,57049,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,56365,211679,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,56365,912792,0.231902777413
+2010,57050,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,56366,215595,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,56366,876000,0.246113013699
+2010,57051,Noatak,"Alaska Village Elec Coop, Inc",221,1807,Noatak,"Alaska Village Elec Coop, Inc",221,10512,0.171898782344
+2010,57052,Savoonga,"Alaska Village Elec Coop, Inc",221,1771,Savoonga,"Alaska Village Elec Coop, Inc",221,14892,0.11892291163
+2010,57053,Alakanuk,"Alaska Village Elec Coop, Inc",221,1859,Alakanuk,"Alaska Village Elec Coop, Inc",221,11388,0.163242009132
+2010,57054,Upper Kalskag,"Alaska Village Elec Coop, Inc",221,1387,Upper Kalskag,"Alaska Village Elec Coop, Inc",221,9636,0.143939393939
+2010,57055,Stebbins,"Alaska Village Elec Coop, Inc",221,1376,Stebbins,"Alaska Village Elec Coop, Inc",221,10512,0.130898021309
+2010,57056,Scammon Bay,"Alaska Village Elec Coop, Inc",221,1670,Scammon Bay,"Alaska Village Elec Coop, Inc",221,11388,0.146645591851
+2010,57057,Quinhagak,"Alaska Village Elec Coop, Inc",221,1631,Quinhagak,"Alaska Village Elec Coop, Inc",221,9636,0.169261104193
+2010,57058,Pilot Station,"Alaska Village Elec Coop, Inc",221,1703,Pilot Station,"Alaska Village Elec Coop, Inc",221,10512,0.162005327245
+2010,57059,Koyuk,"Alaska Village Elec Coop, Inc",221,1367,Koyuk,"Alaska Village Elec Coop, Inc",221,9636,0.141863843919
+2010,57060,Elim,"Alaska Village Elec Coop, Inc",221,1137,Elim,"Alaska Village Elec Coop, Inc",221,9636,0.11799501868
+2010,57061,St. Michael,"Alaska Village Elec Coop, Inc",221,1729,St. Michael,"Alaska Village Elec Coop, Inc",221,8760,0.197374429224
+2010,56997,Arrowrock Hydroelectric Project,Boise-Kuna Irrigation District,1932,77648,Arrowrock Hydroelectric Project,Boise-Kuna Irrigation District,1932,140160,0.55399543379
+2010,55990,Ashtabula,SUEZ-DEGS of Ashtabula LLC,19144,149747.63,Ashtabula,SUEZ-DEGS of Ashtabula LLC,19144,204984,0.730533261133
+2010,56125,Springville Hydroelectric,Calleguas Mun Water District,30076,1522,Springville Hydroelectric,Calleguas Mun Water District,30076,8760,0.173744292237
+2010,55988,Wabuska,Homestretch Geothermal  LLC,8785,4850,Wabuska,Homestretch Geothermal  LLC,8785,7884,0.615169964485
+2010,3120,Blossburg,GenOn REMA LLC,17235,2371,Blossburg,GenOn REMA LLC,17235,166440,0.0142453737082
+2010,3122,Homer City Station,Midwest Generations EME LLC,12384,11007266,Homer City Station,Midwest Generations EME LLC,12384,16503840,0.666951812427
+2010,3124,Piney,BP Piney & Deep Creek LLC,54679,50520,Piney,BP Piney & Deep Creek LLC,54679,236520,0.213597158803
+2010,3130,Seward,GenOn Wholesale Generation LP,54885,3724944,Seward,GenOn Wholesale Generation LP,54885,4599000,0.809946510111
+2010,3131,Shawville,GenOn REMA LLC,17235,2590443,Shawville,GenOn REMA LLC,17235,5282280,0.490402439856
+2010,57049,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,56365,211679,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,56365,912792,0.231902777413
+2010,57050,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,56366,215595,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,56366,876000,0.246113013699
+2010,57051,Noatak,"Alaska Village Elec Coop, Inc",221,1807,Noatak,"Alaska Village Elec Coop, Inc",221,10512,0.171898782344
+2010,57052,Savoonga,"Alaska Village Elec Coop, Inc",221,1771,Savoonga,"Alaska Village Elec Coop, Inc",221,14892,0.11892291163
+2011,6035,Greenwood,The DTE Electric Company,5109,373695.76,Greenwood,Detroit Edison Co,5109,8733720,0.0427876964226
+2011,6060,Coachella,Imperial Irrigation District,9216,2965,Coachella,Imperial Irrigation District,9216,714816,0.00414792058376
+2011,6058,Cascade Creek,Rochester Public Utilities,16181,5033,Cascade Creek,Rochester Public Utilities,16181,673644,0.00747130531854
+2011,6056,Kahului,Maui Electric Co Ltd,11843,176582,Kahului,Maui Electric Co Ltd,11843,283824,0.622153165342
+2011,6055,Big Cajun 2,Louisiana Generating LLC,11252,12767370.768,Big Cajun 2,Louisiana Generating LLC,11252,15268680,0.836180388089
+2011,6052,Wansley,Georgia Power Co,7140,7723385.009,Wansley,Georgia Power Co,7140,15706680,0.491726132384
+2011,6051,Edwin I Hatch,Georgia Power Co,7140,13576882,Edwin I Hatch,Georgia Power Co,7140,15408840,0.881109934297
+2011,6049,West Tisbury Generating Facility,NRG Canal LLC,21461,1707,West Tisbury Generating Facility,GenOn Canal LLC,21461,49056,0.0347969667319
+2011,6006,Racine,Ohio Power Co,14006,120630,Racine,Ohio Power Co,14006,175200,0.68852739726
+2011,6047,Deerfield 2,"TransCanada Hydro Northeast Inc.,",50048,15251,Deerfield 2,"TransCanada Hydro Northeast Inc.,",50048,55188,0.276346307168
+2011,6045,St Lucie,Florida Power & Light Co,6452,11107756,St Lucie,Florida Power & Light Co,6452,14699280,0.755666672109
+2011,6043,Martin,Florida Power & Light Co,6452,13727508.621,Martin,Florida Power & Light Co,6452,32368200,0.424104788681
+2011,6042,Manatee,Florida Power & Light Co,6452,7975373.78,Manatee,Florida Power & Light Co,6452,23958600,0.332881461354
+2011,6035,Greenwood,The DTE Electric Company,5109,373695.76,Greenwood,Detroit Edison Co,5109,8733720,0.0427876964226
+2012,6030,Coal Creek,Great River Energy,7570,9227878.971,Coal Creek,Great River Energy,7570,9986400,0.924044597753
+2012,6034,Belle River,DTE Electric Company,5109,7437274.046,Belle River,The DTE Electric Company,5109,13297680,0.559291097846
+2012,6068,Jeffrey Energy Center,Westar Energy Inc,22500,11404539.115,Jeffrey Energy Center,Westar Energy Inc,22500,19088040,0.597470411577
+2012,6071,Trimble County,Louisville Gas & Electric Co,11249,8216299.986,Trimble County,Louisville Gas & Electric Co,11249,19140600,0.429260315037
+2012,6072,Grand Gulf,"System Energy Resources, Inc",12465,7296134,Grand Gulf,"System Energy Resources, Inc",12465,10424400,0.699909251372
+2012,6073,Victor J Daniel Jr,Mississippi Power Co,12686,9741852.046,Victor J Daniel Jr,Mississippi Power Co,12686,17449920,0.558274882979
+2012,6074,Greenwood (MO),KCP&L Greater Missouri Operations Co,56211,10098,Greenwood,KCP&L Greater Missouri Operations Co,56211,2215404,0.00455808511676
+2012,6076,Colstrip,Talen Montana LLC,15298,12251002.817,Colstrip,PPL Montana LLC,15298,18343440,0.66786833969
+2012,6077,Gerald Gentleman,Nebraska Public Power District,13337,8861292.003,Gerald Gentleman,Nebraska Public Power District,13337,11957400,0.741071805158
+2012,6081,Stony Brook,Massachusetts Mun Wholes Electric Co,11806,127244,Stony Brook,Massachusetts Mun Wholes Electric Co,11806,3851772,0.0330351848448
+2012,6082,Somerset Operating Co LLC,Somerset Operating Co LLC,22129,2046534.006,Somerset Operating Co LLC,Somerset Operating Co LLC,22129,5951544,0.343866063327
+2012,6083,Deerfield 3,"TransCanada Hydro Northeast Inc.,",50048,19074,Deerfield 3,"TransCanada Hydro Northeast Inc.,",50048,55188,0.345618612742
+2012,6085,R M Schahfer,Northern Indiana Pub Serv Co,13756,5970276.023,R M Schahfer,Northern Indiana Pub Serv Co,13756,15592800,0.382886718421
+2012,6086,Cornell,Northern States Power Co - Minnesota,13781,57260,Cornell,Northern States Power Co - Minnesota,13781,174324,0.328468828159
+2012,6030,Coal Creek,Great River Energy,7570,9227878.971,Coal Creek,Great River Energy,7570,9986400,0.924044597753
+2012,6034,Belle River,DTE Electric Company,5109,7437274.046,Belle River,The DTE Electric Company,5109,13297680,0.559291097846
+2012,6068,Jeffrey Energy Center,Westar Energy Inc,22500,11404539.115,Jeffrey Energy Center,Westar Energy Inc,22500,19088040,0.597470411577
+2012,6071,Trimble County,Louisville Gas & Electric Co,11249,8216299.986,Trimble County,Louisville Gas & Electric Co,11249,19140600,0.429260315037
+2012,6072,Grand Gulf,"System Energy Resources, Inc",12465,7296134,Grand Gulf,"System Energy Resources, Inc",12465,10424400,0.699909251372
+2012,6073,Victor J Daniel Jr,Mississippi Power Co,12686,9741852.046,Victor J Daniel Jr,Mississippi Power Co,12686,17449920,0.558274882979
